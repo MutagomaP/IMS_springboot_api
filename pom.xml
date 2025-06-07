@@ -8,11 +8,11 @@
 		<version>3.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Clinic</groupId>
-	<artifactId>clinic-management</artifactId>
+	<groupId>com.inventory</groupId>
+	<artifactId>product-management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>clinic-management</name>
-	<description>clinic management spring boot app</description>
+	<name>product-management</name>
+	<description>Product management spring boot app</description>
 	<url/>
 	<licenses>
 		<license/>

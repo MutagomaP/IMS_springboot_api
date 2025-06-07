@@ -10,11 +10,9 @@ import com.spring_security.spring_security.Dto.LoginResponseDto;
 import com.spring_security.spring_security.Dto.RegisterDto;
 import com.spring_security.spring_security.serviceImpl.AuthServiceImpl;
 
-
-
 @RestController
 @CrossOrigin(origins = "*")
-@RequestMapping("clinic-mngs-v2/api/v1/auth") // just change this depending  in your case
+@RequestMapping("api/v1/auth")
 public class AuthController {
 
     private final AuthServiceImpl authServiceImpl;
