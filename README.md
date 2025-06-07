@@ -21,8 +21,8 @@ Welcome to the **Spring Security** repository! This project demonstrates how to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashrafutuyubahe/spring_security.git
+   git clone https://github.com/MutagomaP/IMS_springboot_api.git
    cd spring_security
 
 
-   that would enough 
+
